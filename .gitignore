@@ -1,3 +1,13 @@
 
 sentistrength/.DS_Store
 .DS_Store
+BERT_results/checkpoint-997/vocab.txt
+BERT_results/checkpoint-997/training_args.bin
+BERT_results/checkpoint-997/trainer_state.json
+BERT_results/checkpoint-997/tokenizer_config.json
+BERT_results/checkpoint-997/special_tokens_map.json
+BERT_results/checkpoint-997/scheduler.pt
+BERT_results/checkpoint-997/rng_state.pth
+BERT_results/checkpoint-997/optimizer.pt
+BERT_results/checkpoint-997/model.safetensors
+BERT_results/checkpoint-997/config.json
