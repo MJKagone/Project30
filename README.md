@@ -4,7 +4,7 @@
 This project applies natural language processing (NLP) and machine learning to detect self-admitted technical debt (SATD) in source code comments. By leveraging sentiment analysis, TF-IDF vectorization, and supervised classification models, this work demonstrates effective techniques for automated SATD detection.  
 
 ## Key Results  
-- High Accuracy in SATD Detection: Achieved an F1 score of 0.90 in binary classification using XGBoost with sentiment-enhanced features.  
+- High Accuracy in SATD Detection: Achieved an accuracy of 0.93 and an F1 score of 0.90 in binary classification using XGBoost with sentiment-enhanced features.  
 - Sentiment-Aware Classification: Integrating sentiment scores improved detection performance, confirming their relevance in SATD identification.  
 
 ## Other Achievements  
